@@ -17,11 +17,13 @@
   - [:zap: GitHub Stats](#zap-github-stats)
   - [📫 Connect with Me](#-connect-with-me)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+
+
 ## About Me
 
 As a dedicated student, I am constantly exploring new technologies and frameworks to enhance my skills. My goal is to create innovative solutions that positively impact people's lives. I am excited to connect with like-minded individuals and collaborate on exciting projects!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ## 🛠️ Languages and Tools
