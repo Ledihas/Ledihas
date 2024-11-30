@@ -67,20 +67,17 @@ As a dedicated student, I am constantly exploring new technologies and framework
 <details>
   <summary>💻 Languages</summary>
 <hr>
-  <p style="display: inline-block;">
-	<p>
-		<kbd>
-			<kbd>Programming Languages</kbd>
-			<br>
-			<br>
-			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
-			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
-			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
-			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
-			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
-		</kbd>
-	</p>
-	<p>
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+	![Shell](https://img.shields.io/badge/shell-%231DAF00.svg?style=for-the-badge&logo=gnu-bash&logoColor=white);
+	![TypeScript](https://img.shields.io/badge/typescript-%232B7BB2.svg?style=for-the-badge&logo=typescript&logoColor=white);
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+	
 </details>
 
 
@@ -112,11 +109,6 @@ Here are some of the projects I have worked on:
    - **Technologies Used**: Django, Bootstrap
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
-
-
- Lines of Code Changes 
-| ----------- |
-<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />
 
 
 ## :zap: GitHub Stats
