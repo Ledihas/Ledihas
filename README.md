@@ -67,13 +67,20 @@ As a dedicated student, I am constantly exploring new technologies and framework
 <details>
   <summary>💻 Languages</summary>
 <hr>
-  <ul>
-    <p align="start">
-      <a href="https://skillicons.dev" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,ts,bash,java" />
-      </a>
-    </p>
-  </ul>
+  <p style="display: inline-block;">
+	<p>
+		<kbd>
+			<kbd>Programming Languages</kbd>
+			<br>
+			<br>
+			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
+			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
+			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
+			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+		</kbd>
+	</p>
+	<p>
 </details>
 
 
