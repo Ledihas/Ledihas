@@ -114,6 +114,9 @@ Here are some of the projects I have worked on:
 Feel free to explore these projects and provide feedback or suggestions for improvement.
 
 
+ Lines of Code Changes 
+| ----------- |
+<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />
 
 
 ## :zap: GitHub Stats
