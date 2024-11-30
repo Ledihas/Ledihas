@@ -43,8 +43,8 @@ As a dedicated student, I am constantly exploring new technologies and framework
 <p align="start">
   <a href="https://simpleicons.org" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/neovim.svg" alt="Neovim" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vscode.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/#FF0000" alt="Spyder" width="40" height="40"/>
+     <img src="https://devicon.dev/devicon.git/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spyderide.svg" alt="Spyder" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/qt.svg" alt="Qt Creator" width="40" height="40"/>
 
   </a>
