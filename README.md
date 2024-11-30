@@ -4,6 +4,10 @@
 
 <p>My name is Zahidel Pedroso, and I study at the University of Informatic Sciences in Havana, Cuba. I am passionate about Web Development, and Artificial Intelligence.</p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;I+love+the+code;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 ## 📚 Table of Contents
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
