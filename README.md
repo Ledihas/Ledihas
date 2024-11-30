@@ -42,10 +42,13 @@ As a dedicated student, I am constantly exploring new technologies and framework
 	<strong>Development Environments and Text Editors</strong>
 <p align="start">
   <a href="https://simpleicons.org" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/neovim.svg" alt="Neovim" width="40" height="40"/>
-     <img src="https://devicon.dev/devicon.git/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spyderide.svg" alt="Spyder" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/qt.svg" alt="Qt Creator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />
+  <a href="https://www.cursor.com" style="text-decoration: none;">
+  <img src="https://img.icons8.com/color/48/000000/cursor-ide.png" alt="Cursor IDE" width="40" height="40"/>
+</a>
+
 
   </a>
 </p>
