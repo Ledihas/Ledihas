@@ -39,11 +39,14 @@ As a dedicated student, I am constantly exploring new technologies and framework
     </li>
     <li>
       <strong>Development Environments and Text Editors</strong>
-      <p align="start">
-        <a href="https://skillicons.dev" style="text-decoration: none;">
-         [ <img src="https://skillicons.dev/icons?i=neovim,vscode,spyder,cursor" />]
-        </a>
-      </p>
+	<p align="start">
+	  <a href="https://devicon.dev" style="text-decoration: none;">
+	    <img src="https://devicon.dev/devicon.git/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
+	    <img src="https://devicon.dev/devicon.git/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+	    <img src="https://devicon.dev/devicon.git/icons/spyder/spyder-original.svg" alt="Spyder" width="40" height="40"/>
+	    <img src="https://devicon.dev/devicon.git/icons/qt/qt-original.svg" alt="Qt Creator" width="40" height="40"/>
+	  </a>
+	</p>
     </li>
     <li>
       <strong>Development Tools</strong>
