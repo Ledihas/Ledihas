@@ -103,14 +103,14 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 <p align="start">
   <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=qt,angular,django,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=qt,angular,django,bootstrap,flask,tensorflow" />
   </a>
 </p>
 
 ## 🔭 I Want to Learn:
 <p align="start">
  <ul>
- <li>OpenCV</li>
+ <li>GStreamer</li>
  <li>R languaje</li>
  <li>Matlab</li>
  <li>Jupyter Notebook</li>
