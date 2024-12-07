@@ -144,7 +144,7 @@ Feel free to explore these projects and provide feedback or suggestions for impr
     <img src="https://img.shields.io/github/followers/Ledihas?style=social" alt="Followers" />
   </a>
   <a href="https://github.com/Ledihas?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-3-brightgreen" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repos-7-brightgreen" alt="Repositories" />
   </a>
 </p>
 
